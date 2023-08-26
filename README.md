@@ -1,3 +1,4 @@
 # FirstRepo
-This is my first GIT Repositary
+This is my first GIT Repositary.
+<br>
 Author - Shaurya Verma
